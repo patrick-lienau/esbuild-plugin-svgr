@@ -1,5 +1,6 @@
 {
     "name": "@patrick-lienau/esbuild-plugin-svgr",
+    "private": false,
     "description": "A plugin for esbuild that enables importing *.svg files as React components.",
     "version": "3.0.0",
     "license": "MIT",
